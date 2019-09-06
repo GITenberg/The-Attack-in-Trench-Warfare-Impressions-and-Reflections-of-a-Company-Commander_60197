@@ -1,6 +1,9 @@
 _repo: The-Attack-in-Trench-Warfare-Impressions-and-Reflections-of-a-Company-Commander_60197
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Étude sur l'attaque dans la période actuelle de la guerre. English
+covers:
+- cover_type: archival
+  image_path: 60197-h/images/cover.jpg
 creator:
   author:
     agent_name: Laffargue, André
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50839
     wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Laffargue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60197#The-Attack-in-Trench-Warfare-Impressions-and-Reflections-of-a-Company-Commander
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2019-08-30'
 gutenberg_type: Text
